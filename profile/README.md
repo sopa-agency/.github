@@ -17,7 +17,7 @@
 
 We work **both worlds**: the legacy brand that needs reach, and the protocol that needs a soul. We turn culture into product — campaigns across every channel, **autonomous AI agents** that run them, dashboards that run a whole org's ops, and revenue you can verify on-chain.
 
-Skaters, builders, and AI crews — bringing an audience the new tech doesn't have, and the tooling the old one is missing.
+Builders bringing an audience the new tech doesn't have, and the tooling the old one is missing.
 
 ## ⚡ What we do
 
