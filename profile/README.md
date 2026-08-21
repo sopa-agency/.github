@@ -15,7 +15,7 @@
 
 ---
 
-We work **both worlds**: the legacy brand that needs reach, and the protocol that needs a soul. We turn culture into product — campaigns across every channel, **autonomous AI agents** that run them, dashboards that run a whole org's ops, and revenue you can verify on-chain.
+We work **both worlds**: the legacy brand that needs reach, and the protocol that needs a soul. We turn culture into product — campaigns across every channel, **autonomous AI agents** that run them,[...]
 
 Builders bringing an audience the new tech doesn't have, and the tooling the old one is missing.
 
@@ -39,6 +39,7 @@ Builders bringing an audience the new tech doesn't have, and the tooling the old
 | **[Venice](https://venice.ai)** | Private, uncensored AI |
 | **[Base](https://base.org)** | The onchain home we build on |
 | **[Nouns](https://nouns.wtf)** | CC0 culture funding the open internet |
+| **[KeepKey](https://keepkey.com)** | Self-custody hardware wallet for crypto assets |
 
 ## 🧭 How we're different
 
